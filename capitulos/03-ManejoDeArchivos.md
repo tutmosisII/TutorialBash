@@ -12,6 +12,7 @@ En el directorio donde esta ubicado pruebe cada uno de lo sigueintes comandos
     rm datos/json/a/primer.json #Elmina  el archivo en la ruta indicada.
     mv exammple.json datos/ #Mueve el archivo a la carpeta de datos
 ```
+### **Trabajo**: En el directorio de datos/logs/ crea un archivo llamado   logs09-2021-jun.log
 
 ```bash
 log_name="logs"$(date "+%d-%Y-%b")".log"

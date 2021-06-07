@@ -56,10 +56,5 @@ En este caso par aseguir adelante lo ideal seria usar este ambiente de desarroll
 
   El manejo de directorios y archivos es escencial para manipular adecuadamente el sistema.
 
-### **Trabajo 2**: En el directorio de datos/logs/ crea un archivo llamado   logs09-2021-jun.log
 
-```bash
-log_name="logs"$(date "+%d-%Y-%b")".log"
-mkdir -p datos/logs/
-touch "datos/logs/$log_name"
-```
+
