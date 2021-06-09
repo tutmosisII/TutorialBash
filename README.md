@@ -45,7 +45,7 @@ En este caso par aseguir adelante lo ideal seria usar este ambiente de desarroll
 
 ---
 
-## 1. [Historial de Shell](capitulos(01-HistoriaShell.md))
+## 1. [Historial de Shell](capitulos/01-HistoriaShell.md))
 
 Se presenta un diagrama con la evolucíón de diferentes tipos de línea de comandos.
 
@@ -64,4 +64,6 @@ Se presenta un diagrama con la evolucíón de diferentes tipos de línea de coma
   El manejo de directorios y archivos es escencial para manipular adecuadamente el sistema.
 
 
+## 4. [Variables Shell](capitulos/04-Variables.md)
 
+  Cómo manejar variables para automatizar.
