@@ -1,6 +1,6 @@
 # Comandos para el manejo de archivos.
 
-En el directorio donde esta ubicado pruebe cada uno de lo sigueintes comandos
+En el directorio donde esta ubicado pruebe cada uno de lo siguientes comandos
 
 ```bash
     ls                      #Lista archivos del directorio actual.

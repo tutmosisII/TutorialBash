@@ -1,7 +1,7 @@
 # Uso de comandos Bash
 
 Este documento es una recopilación de herrmientas usadas en el día a dia de mi trabajo.
-También hace uso de docker para panejar un paso a paso a manera de tutorial.
+También hace uso de docker para manejar un paso a paso a manera de tutorial.
 
 Por lo que se require docker installado en tu máquina.
 También se asume que se tiene una de las últimas versiones de VSCode.
@@ -45,14 +45,21 @@ En este caso par aseguir adelante lo ideal seria usar este ambiente de desarroll
 
 ---
 
-## [2. Imprimiendo Fecha del sistema](capitulos/02-ComandoDate.md)
+## 1. [Historial de Shell](capitulos(01-HistoriaShell.md))
+
+Se presenta un diagrama con la evolucíón de diferentes tipos de línea de comandos.
+
+---
+
+
+## 2. [Imprimiendo Fecha del sistema](capitulos/02-ComandoDate.md)
  
   Esta sección muestra el comando **fecha** y la ayuda del mismo para familiarizarse.
 
 
 ---
 
-## [3. Comandos básicos para la manejar archivos.](capitulos/03-ManejoDeArchivos.md)
+## 3. [Comandos básicos para la manejar archivos.](capitulos/03-ManejoDeArchivos.md)
 
   El manejo de directorios y archivos es escencial para manipular adecuadamente el sistema.
 
