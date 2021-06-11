@@ -1,2 +1,5 @@
 tmp*
 **/.vagrant
+node_modules
+haraka_server
+package-lock.json
